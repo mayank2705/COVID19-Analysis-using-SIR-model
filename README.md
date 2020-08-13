@@ -15,4 +15,7 @@ The model consists of three compartments: S for the number of susceptible, I for
 Each member of the population typically progresses from susceptible to infectious to recovered. This can be shown as a flow diagram in which the boxes represent the different compartments and the arrows the transition between compartments, i.e.
 ![SIR Model](https://github.com/mayank2705/COVID19-Analysis-using-SIR-model/blob/master/SIR_model.png)
 
+Most important graphs of the Data modelling and analysis done are as follows:-
+For the world scenario![](https://github.com/mayank2705/COVID19-Analysis-using-SIR-model/blob/master/newplot%20(1).png)
+
 
