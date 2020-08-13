@@ -5,6 +5,9 @@ This model comprises of three parameters- Suspicious, Infectious and Recovered. 
 There are a lot of data which is available on internet. Here I have used mostly used dataset from the John Hopkins University's Center for Systems Science and Engineering (JHU CSSE). The links for the datasets are:
 * [time_series_covid19_confirmed_global.csv](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv)
 * [time_series_covid19_deaths_global.csv](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv)
-* [time_series_covid19_recovered_global.csv](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv)
+* [time_series_covid19_recovered_global.csv](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv)  ...
 I have made proper graphs to demonstrate the statistics of the no of cases in whole world and some countries as well.
+
+## Data Modelling and Predictions
+
 
