@@ -16,6 +16,9 @@ Each member of the population typically progresses from susceptible to infectiou
 ![SIR Model](https://github.com/mayank2705/COVID19-Analysis-using-SIR-model/blob/master/SIR_model.png)
 
 Most important graphs of the Data modelling and analysis done are as follows:-
-For the world scenario ![](https://github.com/mayank2705/COVID19-Analysis-using-SIR-model/blob/master/newplot%20(1).png)
+For the world scenario ![](https://github.com/mayank2705/COVID19-Analysis-using-SIR-model/blob/master/global_cases.png)
+
+The sharp exponential curve that can be seen on the right side of the graph shows the devastating rate at which the pandemic is spreading worldwide. Before further drill-down, I looked at the progression of recovered, death and active cases as well. 
+![](https://github.com/mayank2705/COVID19-Analysis-using-SIR-model/blob/master/newplot%20(1).png)
 
 
