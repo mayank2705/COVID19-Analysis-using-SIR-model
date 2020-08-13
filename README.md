@@ -20,5 +20,9 @@ For the world scenario ![](https://github.com/mayank2705/COVID19-Analysis-using-
 
 The sharp exponential curve that can be seen on the right side of the graph shows the devastating rate at which the pandemic is spreading worldwide. Before further drill-down, I looked at the progression of recovered, death and active cases as well. 
 ![](https://github.com/mayank2705/COVID19-Analysis-using-SIR-model/blob/master/newplot%20(1).png)
+The black graph shows confirmed cases.
+The blue one shows the active no of cases.
+The red one shows the deaths.
+The green shows the Recovered.
 
 
